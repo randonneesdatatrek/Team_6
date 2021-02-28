@@ -1,0 +1,175 @@
+ spike protein [SARS coronavirus Rs_672/2006]
+        1 mkvlivllcl glvtaqdgcg histkpqplm dkfsssrrgv yynddifrsd vlhltqdyfl
+       61 pfdtnltryl sfnmdsatkv yfdnptlpfg dgiyfaatek snvvrgwifg stmdnttqsa
+      121 iivnnsthii irvcyfnlck epmyaisneq hykswvyqna ynctydrveq sfqldtapqt
+      181 gnfkdlreyv fknkdgflsv ynayspidip rglpvgfsvl kpilklpisi nitsfkvvms
+      241 mfsrttsnfl pevaayfvgn lkystfmlnf nengtitdai dcaqnplsel kctiknfnvs
+      301 kgiyqtsnfr vspthevirf pnitnrcpfd kvfnasrfpn vyawertkis dcvadytvly
+      361 nstsfstfkc ygvspsklid lcftsvyadt flirssevrq vapgetgvia dynyklpddf
+      421 tgcviawnta kqdqgqyyyr ssrktklkpf erdltsdeng vrtlstydfy pnvpieyqat
+      481 rvvvlsfell napatvcgpk lstglvknqc vnfnfnglkg tgvltdsskr fqsfqqfgrd
+      541 tsdftdsvrd pqtlqildit pcsfggvsvi tpgtnassev avlyqdvnct dvptairadq
+      601 ltpawrvyst gvnvfqtqag cligaehvna syecdipiga gicasyhtas tlrsvgqksi
+      661 vaytmslgae nsiayannsi aiptnfsisv ttevmpvsma ktsvdctmyi cgdsqecsnl
+      721 llqygsfctq lnraltgval eqdkntqevf aqvkqmyktp aikdfggfnf sqilpdpskp
+      781 tkrsfiedll fnkvtladag fmkqygeclg disardlica qkfngltvlp plltdemiaa
+      841 ytaalvsgta tagwtfgaga alqipfamqm ayrfngigvt qnvlyenqkq ianqfnkais
+      901 qiqeslttts talgklqdvv nqnaqalntl vkqlssnfga issvlndils rldkveaevq
+      961 idrlitgrlq slqtyvtqql iraaeirasa nlaatkmsec vpgqskrvdf cgrgyhlmsf
+     1021 pqaaphgvvf lhvtyvpsqe knfttapaic hegkayfpre gvfvsngtsw fitqrnfysp
+     1081 qiittdntfv agncdvvigi inntvydplq peldsfkeel dkyfknhtsp dvdlgdisgi
+     1141 nasvvniqke idrlnevakn lneslidlqe lgkyeqyikw pwyvwlgfia gliaivmati
+     1201 llccmtsccs clkgacscgs cckfdeddse pvlkgvklhy t
+
+	spike glycoprotein [Human coronavirus HKU1]
+      
+        1 mlliifilpt tlavigdfnc tnfaindknt tvpriseyvv dvsyglgtyy ildrvylntt
+       61 ilftgyfpks ganfrdlslk gttylstlwy qkpflsdfnn gifsrvkntk lyvnktlyse
+      121 fstivigsvf innsytivvq phngvleita cqytmceyph tickskgssr neswhfdkse
+      181 plclfkknft ynvstdflyf hfyqergtfy ayyadsgmpt tflfslylgt llshyyvlpl
+      241 tcnaissntd netlqywvtp lskrqyllkf dnrgvitnav dcsssffsei qcktksllpn
+      301 tgvydlsgft vkpvatvhrr ipdlpdcdid kwlnnfnvps plnwerkifs ncnfnlstll
+      361 rlvhtdsfsc nnfdeskiyg scfksivldk faipnsrrsd lqlgssgflq ssnykidtts
+      421 sscqlyyslp ainvtinnyn psswnrrygf nnfnlsshsv vysrycfsvn ntfcpcakps
+      481 fassckshkp psascpigtn yrscesttvl dhtdwcrcsc lpdpitaydp rscsqkkslv
+      541 gvgehcagfg vdeekcgvld gsynvsclcs tdaflgwsyd tcvsnnrcni fsnfilngin
+      601 sgttcsndll qpntevytdv cvdydlygit gqgifkevsa vyynswqnll ydsngniigf
+      661 kdfvtnktyn ifpcyagrvs aafhqnassl allyrnlkcs yvlnnislat qpyfdsylgc
+      721 vfnadnltdy svsscalrmg sgfcvdynsp sfsssrrkrr sisasyrfvt fepfnvsfvn
+      781 dsiesvggly eikiptnfti vgqeefiqtn spkvtidcsl fvcsnyaach dllseygtfc
+      841 dninsildev nglldttqlh vadtlmqgvt lssnlntnlh fdvdninfks lvgclgphcg
+      901 sssrsffedl lfdkvklsdv gfveaynnct ggseirdllc vqsfngikvl ppilsesqis
+      961 gyttaatvaa mfppwsaaag ipfslnvqyr inglgvtmdv lnknqkliat afnnallsiq
+     1021 ngfsatnsal akiqsvvnsn aqalnsllqq lfnkfgaiss slqeilsrld aleaqvqidr
+     1081 lingrltaln ayvsqqlsdi slvkfgaala mekvnecvks qsprinfcgn gnhilslvqn
+     1141 apygllfmhf sykpisfktv lvspglcisg dvgiapkqgy fikhndhwmf tgssyyypep
+     1201 isdknvvfmn tcsvnftkap lvylnhsvpk lsdfeselsh wfknqtsiap nltlnlhtin
+     1261 atfldlyyem nliqesiksl nnsyinlkdi gtyemyvkwp wyvwllisfs fiiflvllff
+     1321 iccctgcgsa cfskchnccd eygghhdfvi ktshdd
+	S protein [Human coronavirus OC43]
+ 1 mflillislp tafavigdlk cpldsrtgsl nnvdtgppsi statvdvtng lgtyyvldrv
+       61 ylnttlflng yyptsgstyr nmalkgtdkl stlwfkppfl sdfingifak vkntkvfkeg
+      121 vmysefpait igstfvntsy svvvqprtin ygvnklqgll evsvcqynmc eypqtichpk
+      181 lgnhfkelwh mdtgvvscly krnftydvna tylyfhfyqe ggtfyayftd tgvvtkflfn
+      241 vylgmalshy yvmpltcisr rnigftleyw vtpltsrqyl lafnqdgiif navdcmsdfm
+      301 seikcktqsi apptgvyeln gytvqpiadv yrrkpdlpnc nieawlndks vpsplnwerk
+      361 tfsncnfnms slmsfiqvds ftcnnidaak iygmcfssit idkfaipngr kvdlqlgnlg
+      421 ylqsfnyrid ttatscqlyy nlpaanvsvs rfnpstwnkr fgfiensvfk pqpagvftnh
+      481 dvvyaqhcfk apknfcpckl nsslcvgsgp gknngigtcp agtnyltchn lcnpdpitft
+      541 gpykcpqtks lvgigehcsg lavksdycgg npctcqpqaf lgwsadsclq gdkcnifanl
+      601 ilhdvnsglt cstdlqkant diklgvcvny dlygisgqgi fvevnatyyn swqnllydsn
+      661 gnlygfrdyi tnrtfmirsc ysgrvsaafh anssepallf rnikcnyvfn nslirqlqpi
+      721 nyfdsylgcv vnaynstais vqtcdltvgs gycvdysktr rsrraittgy rftnfepftv
+      781 nsvndslepv gglyeiqips eftignmeef iqtsspkvti dcaafvcgdy aacksqlvey
+      841 gsfcdninai ltevnelldt tqlqvanslm ngvtlstklk dgvnfnvddi nfssvlgclg
+      901 secskassrs aiedllfdkv klsdvgfvaa ynnctggaei rdlicvqsyk gikvlpplls
+      961 enqisgytla atsaslfppw taaagvpfyl nvqyringlg vtmdvlsqnq klianafnna
+     1021 ldaiqegfda tnsalvkiqa vvnanaealn nllqqlsnrf gaissslqei lsrldaleae
+     1081 aqidrlingr ltalnayvsq qlsdstlvkf saaqamekvn ecvksqssri nfcgngnhii
+     1141 slvqnapygl yfihfsyvpt kyvtakvstg lciagdrgia pksgyfvnvn ntwmytgsgy
+     1201 yypepitenn vvvmstcavn ytkapyvmln tstsnlpdfr eeldqwfknq tsvapdlsld
+     1261 yinvtlldlq vemnrlqeai kvlnqsyinl kdigtyeyyv kwpwyvwlli glagvamlvl
+     1321 lfficcctgc gtscfkkcgg ccddytgyqe lviktshdd
+	S [Human coronavirus 229E]
+ 	1 mfvllvayal lhiagcqttn gtntshsvcn gcvghsenvf avesggyips nfafnnwfll
+       61 tntssvvdgv vrsfqpllln clwsvsgsqf ttgfvyfngt grgackgfys nassdviryn
+      121 infeenlrrg tilfktsyga vvfyctnntl vsgdahipsg tvlgnfycfv nttignetts
+      181 afvgalpktv refvisrtgh fyingyryfs lgdveavnfn vtnaattvct valasyadvl
+      241 vnvsqtaian iiycnsvinr lrcdqlsfdv pdgfystspi qpvelpvsiv slpvyhkhtf
+      301 ivlyvnfehr rgpgkcyncr pavinitlan fnetkgplcv dtshfttqfv dnvklarwsa
+      361 sintgncpfs fgkvnnfvkf gsvcfslkdi pggcampima nlvnskshni gslyvswsdg
+      421 dvitgvpkpv egvssfmnvt lnkctkyniy dvsgvgviri sndtflngit ytstsgnllg
+      481 fkdvtngtiy sitpcnppdq lvvyqqavvg amlsenftsy gfsnvvempk ffyasngtyn
+      541 ctdavltyss fgvcadgsii avqprnvsyd svsaivtanl sipfnwttsv qveylqitst
+      601 pivvdcstyv cngnvrcvel lkqytsackt iedalrnsam lesadvseml tfdkkaftla
+      661 nvssfgdynl ssvipslprs gsrvagrsai edilfsklvt sglgtvdady kkctkglsia
+      721 dlacaqyyng imvlpgvada ermamytgsl iggialgglt saasipfsla iqsrlnyval
+      781 qtdvlqenqr ilaasfnkam tnivdaftgv ndaitqtsqa lqtvatalnk iqdvvnqqgn
+      841 slnhltsqlr qnfqaisssi qaiydrldii qadqqvdrli tgrlaalnvf vshtltkyte
+      901 vrasrqlaqq kvnecvksqs krygfcgngt hifslvnaap eglvflhtvl lptqykdvea
+      961 wsglcvdgin gyvlrqpnla lykegnyyri tsrimfepri ptiadfvqie ncnvtfvnis
+     1021 rselqtivpe yidvnktlqe lsyklpnytv pdlvveqynq tilnltseis tlenksaeln
+     1081 ytvqklqtli dninstlvdl kwlnrvetyi kwpwwvwlci svvlifvvsm lllcccstgc
+     1141 cgffscfass irgccestkl pyydvekihi q
+
+	spike protein [Human coronavirus NL63] 
+	 1 mklflillvl plascfftcn snanlsmlql gvpdnsstiv tgllpthwfc anqstsvysa
+       61 ngffyidvgn hrsafalhtg yydvnqyyiy vtneiglnas vtlkickfgi nttfdflsns
+      121 sssfdcivnl lfteqlgapl gitisgetvr lhlynvtrtf yvpaaykltk lsvkcyfnys
+      181 cvfsvvnatv tvnvtthngr vvnytvcddc ngytdnifsv qqdgripngf pfnnwflltn
+      241 gstlvdgvsr lyqplrltcl wpvpglksst gfvyfnatgs dvncngyqhn svadvmrynl
+      301 nfsansvdnl ksgvivfktl qydvlfycsn sssgvldtti pfgpssqpyy cfinstintt
+      361 hvstfvgilp ptvreivvar tgqfyingfk yfdlgfieav nfnvttasat dfwtvafatf
+      421 vdvlvnvsat kiqnllycds pfeklqcehl qfglqdgfys anflddnvlp etyvalpiyy
+      481 qhtdinftat asfggscyvc kphqvnisln gntsvcvrts hfsiryiynr vksgspgdss
+      541 whiylksgtc pfsfsklnnf qkfkticfst vevpgscnfp leatwhytsy tivgalyvtw
+      601 segnsitgvp ypvsgirefs nlvlnnctky niydyvgtgi irssnqslag gityvsnsgn
+      661 llgfknvstg nifivtpcnq pdqvavyqqs iigamtavne sryglqnllq lpnfyyvsng
+      721 gnncttavmt ysnfgicadg slipvrprns sdngisaiit anlsipsnwt tsvqveylqi
+      781 tstpivvdca tyvcngnprc knllkqytsa cktiedalrl sahletndvs smltfdsnaf
+      841 slanvtsfgd ynlssvlpqr nirssriagr saledllfsk vvtsglgtvd vdyksctkgl
+      901 siadlacaqy yngimvlpgv adaermamyt gsliggmvlg gltsaaaipf slalqarlny
+      961 valqtdvlqe nqkilaasfn kainnivasf ssvndaitqt aeaihtvtia lnkiqdvvnq
+     1021 qgsalnhlts qlrhnfqais nsiqaiydrl dsiqadqqvd rlitgrlaal nafvsqvlnk
+     1081 ytevrssrrl aqqkvnecvk sqsnrygfcg ngthifsivn sapdgllflh tvllptdykn
+     1141 vkawsgicvd giygyvlrqp nlvlysdngv frvtsrimfq prlpvlsdfv qiyncnvtfv
+     1201 nisrvelhtv ipdyvdvnkt lqefaqnlpk yvkpnfdltp fnltylnlss elkqleakta
+     1261 slfqttvelq glidqinsty vdlkllnrfe nyikwpwwvw liisvvfvvl lsllvfccls
+     1321 tgccgccncl tssmrgccdc gstklpyyef ekvhvq
+
+	spike protein [Middle East respiratory syndrome-related coronavirus]
+ 	1 mihsvfllmf lltptesyvd vgpdsvksac ievdiqqtff dktwprpidv skadgiiypq
+       61 grtysnitit yqglfpyqgd hgdmyvysag hatgttpqkl fvanysqdvk qfangfvvri
+      121 gaaanstgtv iispstsati rkiypafmlg ssvgnfsdgk mgrffnhtlv llpdgcgtll
+      181 rafycilepr sgnhcpagns ytsfatyhtp atdcsdgnyn rnaslnsfke yfnlrnctfm
+      241 ytynitedei lewfgitqta qgvhlfssry vdlyggnmfq fatlpvydti kyysiiphsi
+      301 rsiqsdrkaw aafyvyklqp ltflldfsvd gyirraidcg fndlsqlhcs yesfdvesgv
+      361 ysvssfeakp sgsvveqaeg vecdfsplls gtppqvynfk rlvftncnyn ltkllslfsv
+      421 ndftcsqisp aaiasncyss lildyfsypl smksdlsvss agpisqfnyk qsfsnptcli
+      481 latvphnltt itkplkysyi nkcsrllsdd rtevpqlvna nqyspcvsiv pstvwedgdy
+      541 yrkqlspleg ggwlvasgst vamteqlqmg fgitvqygtd tnsvcpklef andtkiasql
+      601 gncveyslyg vsgrgvfqnc tavgvrqqrf vydayqnlvg yysddgnyyc lracvsvpvs
+      661 viydketkth atlfgsvace hisstmsqys rstrsmlkrr dstygplqtp vgcvlglvns
+      721 slfvedcklp lgqslcalpd tpstltprsv rsvpgemrla siafnhpiqv dqlnssyfkl
+      781 siptnfsfgv tqeyiqttiq kvtvdckqyv cngfqkceql lreygqfcsk inqalhganl
+      841 rqddsvrnlf asvkssqssp iipgfggdfn ltllepvsis tgsrsarsai edllfdkvti
+      901 adpgymqgyd dcmqqgpasa rdlicaqyva gykvlpplmd vnmeaaytss llgsiagvgw
+      961 taglssfaai pfaqsifyrl ngvgitqqvl senqkliank fnqalgamqt gftttneafq
+     1021 kvqdavnnna qalsklasel sntfgaisas igdiiqrldv leqdaqidrl ingrlttlna
+     1081 fvaqqlvrse saalsaqlak dkvnecvkaq skrsgfcgqg thivsfvvna pnglyfmhvg
+     1141 yypsnhievv sayglcdaan ptnciapvng yfiktnntri vdewsytgss fyapepitsl
+     1201 ntkyvapqvt yqnistnlpp pllgnstgid fqdeldeffk nvstsipnfg sltqinttll
+     1261 dltyemlslq qvvkalnesy idlkelgnyt yynkwpwyiw lgfiaglval alcvffilcc
+     1321 tgcgtncmgk lkcnrccdry eeydlephkv hvh
+	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+
+	 1 mfvflvllpl vssqcvnltt rtqlppaytn sftrgvyypd kvfrssvlhs tqdlflpffs
+       61 nvtwfhaihv sgtngtkrfd npvlpfndgv yfasteksni irgwifgttl dsktqslliv
+      121 nnatnvvikv cefqfcndpf lgvyyhknnk swmesefrvy ssannctfey vsqpflmdle
+      181 gkqgnfknlr efvfknidgy fkiyskhtpi nlvrdlpqgf saleplvdlp iginitrfqt
+      241 llalhrsylt pgdsssgwta gaaayyvgyl qprtfllkyn engtitdavd caldplsetk
+      301 ctlksftvek giyqtsnfrv qptesivrfp nitnlcpfge vfnatrfasv yawnrkrisn
+      361 cvadysvlyn sasfstfkcy gvsptklndl cftnvyadsf virgdevrqi apgqtgkiad
+      421 ynyklpddft gcviawnsnn ldskvggnyn ylyrlfrksn lkpferdist eiyqagstpc
+      481 ngvegfncyf plqsygfqpt ngvgyqpyrv vvlsfellha patvcgpkks tnlvknkcvn
+      541 fnfngltgtg vltesnkkfl pfqqfgrdia dttdavrdpq tleilditpc sfggvsvitp
+      601 gtntsnqvav lyqdvnctev pvaihadqlt ptwrvystgs nvfqtragcl igaehvnnsy
+      661 ecdipigagi casyqtqtns prrarsvasq siiaytmslg aensvaysnn siaiptnfti
+      721 svtteilpvs mtktsvdctm yicgdstecs nlllqygsfc tqlnraltgi aveqdkntqe
+      781 vfaqvkqiyk tppikdfggf nfsqilpdps kpskrsfied llfnkvtlad agfikqygdc
+      841 lgdiaardli caqkfngltv lpplltdemi aqytsallag titsgwtfga gaalqipfam
+      901 qmayrfngig vtqnvlyenq klianqfnsa igkiqdslss tasalgklqd vvnqnaqaln
+      961 tlvkqlssnf gaissvlndi lsrldkveae vqidrlitgr lqslqtyvtq qliraaeira
+     1021 sanlaatkms ecvlgqskrv dfcgkgyhlm sfpqsaphgv vflhvtyvpa qeknfttapa
+     1081 ichdgkahfp regvfvsngt hwfvtqrnfy epqiittdnt fvsgncdvvi givnntvydp
+     1141 lqpeldsfke eldkyfknht spdvdlgdis ginasvvniq keidrlneva knlneslidl
+     1201 qelgkyeqyi kwpwyiwlgf iagliaivmv timlccmtsc csclkgccsc gscckfdedd
+     1261 sepvlkgvkl hyt
+
+
+
+
+
+
+
+
