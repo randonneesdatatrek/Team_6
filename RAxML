@@ -1,0 +1,90 @@
+
+import sys
+from Bio import SeqIO
+import os 
+import seaborn as sns
+import pandas as pd
+from matplotlib import pyplot as plt
+import string
+from ete3 import Tree, TreeStyle
+
+def main():
+# Run the pipeline
+fasta_file = open(sys.argv[1], "r")
+sequences_input = SeqIO.parse(fasta_file, "fasta")
+
+sequences_list, previous_to_new_ids = change_name_id(sequences_input)
+write_fasta_file(sequences_list, "temporary_sequences")
+run_clustalw("~/Documents/datatrek/tempopary_sequences.fasta", "~/Documents/datatrek/spike_sequences.phy")
+run_raxml("~/Documents/datatrek/spike_sequences.phy")
+input_dendoram = "/home/yasminedraceni/Documents/datatrek/RAxML_bestTree.GTR"
+run_raxml("~/Documents/datatrek/skipe_sequences.phy")
+create_tree(input_dendoram , previous_to_new_ids)
+sequences_heatmap = "~/Documents/datatrek/sequences.csv"
+create_heatmap(sequences_heatmap)
+
+def change_name_id(sequences_input):
+"""This function changes ID from fasta file"""
+sequences_list = []
+previous_to_new_ids = {}
+
+for record in sequences_input:
+id_new = record.id[:9].replace(".","h")
+previous_to_new_ids[id_new] = (record.description)
+
+record.id = id_new
+sequences_list.append(record)
+return sequences_list, previous_to_new_ids
+
+def write_fasta_file(records, name_of_file):
+"""This function writes fasta file"""
+file_name = name_of_file + ".fasta"
+SeqIO.write(records, file_name, "fasta")
+
+def run_clustalw(input_fasta, output_phylip):
+"""This function runs the Clustal Omega"""
+os.system("clustalo -i " + input_fasta + " -o" + output_phylip +" --outfmt=phy")
+
+def run_raxml(input_phylip):
+"""This function runs the RaxML"""
+os.system("raxmlHPC -p 12345 -m PROTGAMMAGTR -s "+ input_phylip+" -n GTR")
+
+def create_tree(input_dendogram , previous_to_new_ids):
+"""This function creates tree"""
+# Read tree
+tree = Tree(input_dendogram)
+# Convert leafs names from new name temporary to previous 
+for node in tree.traverse("postorder"): 
+if node.name != "":
+node.name = previous_to_new_ids[node.name]
+
+ts = TreeStyle()
+ts.show_leaf_name = True
+ts.show_branch_length = True
+ts.show_branch_support = True
+
+# plot tree
+tree.show(tree_style=ts)
+def create_heatmap(input_sequences):
+"""This function creates heatmap sorted with evolution tree"""
+
+# Convert amino acids letters to numbers
+alpha_dict = dict(enumerate(string.ascii_uppercase)) 
+
+# Add gap 
+alpha_dict[26] = "-"
+
+my_dict2 = dict((y,x) for x,y in alpha_dict.items())
+# Read csv file 
+df = pd.read_csv(input_sequences, header=None)
+df = df.set_index(0)
+
+# Replace amino acids letters to number in heatmap
+df = df.replace(to_replace = my_dict2, regex=True)
+
+sns.heatmap(df)
+# Show the heatmap
+plt.show()
+
+# Execute the pipeline
+main()
